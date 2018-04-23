@@ -18,7 +18,8 @@ Note: if you're having issues related to the classpath, or import/dependency iss
 2. Go to the “Run As…”n section and select “Java Application.
 3. All three algorithms will run and the aggregate analysis and optimal policies will be printed to the console.
 
-References:
+
+#### References:
 
   https://github.com/juanjose49/omscs-cs7641-machine-learning-assignment-4
   http://burlap.cs.brown.edu/tutorials/bd/p4.html#model
