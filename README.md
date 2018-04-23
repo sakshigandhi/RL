@@ -8,13 +8,13 @@ Note: if you're having issues related to the classpath, or import/dependency iss
 
 #### Running the Grid World: Fewer states (Small Grid World):
 
-1. While inside the directory structure cs7641-assignment-4/src/main/java/assignment4/ right-click on the EasyGridWorldLauncher.
+1. While inside the directory structure src/main/java/assignment4/ right-click on the EasyGridWorldLauncher.
 2. Go to the “Run As…” section and select “Java Application.
 3. All three algorithms will run and the aggregate analysis and optimal policies will be printed to the console.
 
 #### Running the Grid World: Larger States (Hard Grid World):
 
-1. While inside the directory structure cs7641-assignment-4/src/burlap/assignment4/ right-click on the HardGridWorldLauncher.
+1. While inside the directory structure src/main/java/assignment4/ right-click on the HardGridWorldLauncher.
 2. Go to the “Run As…”n section and select “Java Application.
 3. All three algorithms will run and the aggregate analysis and optimal policies will be printed to the console.
 
